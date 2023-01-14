@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T14:32:23.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6puyKO4mwYrCqFEXr0nE" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T14:33:03.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="r-YM4fK27tq-I0vYtCu3" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1645" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="60" y="461.29559523809525" width="270" height="240.11769179894185" as="geometry" />
         </mxCell>
         <mxCell id="ZqLwVkyyeCJWZtCOjeCk-277" value="&lt;span style=&quot;&quot;&gt;Proceed to statistical analysis&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontStyle=1" vertex="1" parent="ZqLwVkyyeCJWZtCOjeCk-289">
-          <mxGeometry x="110" y="210.6732473544974" width="160" height="29.44444444444445" as="geometry" />
+          <mxGeometry x="100" y="200.4832473544974" width="160" height="29.44444444444445" as="geometry" />
         </mxCell>
         <mxCell id="ZqLwVkyyeCJWZtCOjeCk-268" value="Folders and data files" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=0;fontStyle=5;fontSize=16;" vertex="1" parent="ZqLwVkyyeCJWZtCOjeCk-284">
           <mxGeometry x="385" y="33.68082777036049" width="190" height="30" as="geometry" />
